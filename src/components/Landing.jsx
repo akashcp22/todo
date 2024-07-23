@@ -54,9 +54,9 @@ toast.error("Something went wrong")
     getAlltasks()
   }
   return (
-    <div>
+    <div className='w-100'>
      
-      <div className="container ">
+      <div className="container w-50  ">
         <h1>To-Do List</h1>
         <div >
         
